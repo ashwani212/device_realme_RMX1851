@@ -75,7 +75,7 @@ ro.vendor.display.ad.sdr_calib_data=/vendor/etc/OPPO_OLED_AD_calib.cfg
 ro.droidx.maintainer=Cykeek×Ashwani212
 
 # Graphics
-debug.sf.enable_hwc_vds=1
+debug.sf.enable_hwc_vds=0
 persist.demo.hdmirotationlock=false
 persist.hwc.enable_vds=1
 ro.surface_flinger.force_hwc_copy_for_virtual_displays=true
